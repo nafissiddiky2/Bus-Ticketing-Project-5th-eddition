@@ -81,22 +81,22 @@ A full-stack web application for booking bus tickets online. Built with Flask, M
 | **ngrok** | Secure tunneling for demos |
 
 ## 📁 Project Structure
-bus-booking-system/
 
-│
+bus-booking-system/
+|
 ├── backend/
 │ ├── app.py # Main Flask application
 │ └── db_config.py # Database configuration
-│
+|
 ├── frontend/
 │ └── index.html # Frontend HTML template
-│
+|
 ├── database/
 │ └── schema.sql # Database schema (optional)
-│
+|
 ├── screenshots/
 │ └── (application screenshots)
-│
+|
 ├── requirements.txt
 
 
@@ -331,8 +331,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Project Maker: [Saad Al Nafis Siddiky]
+Project Maker: 
+Name : Saad Al Nafis Siddiky
+
 Email: nafissiddiky2@gmail.com
+
 GitHub: @nafissiddiky2
 
 ⭐ Star this repository if you found it helpful!
