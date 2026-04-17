@@ -1,8 +1,9 @@
 Bus Ticketing web is not connected with database for GitHub Limitation ,But fully functonal
 [Bus Ticketing](https://nafissiddiky2.github.io/Bus-Ticketing-Project-5th-eddition/)
 
-I have got a free hosting in ngrok the link is [Here](https://unsent-jiffy-armband.ngrok-free.dev/)
-# 🚌 Bus Ticket Booking System
+<img width="1317" height="468" alt="image" src="https://github.com/user-attachments/assets/81e13328-8fd8-4a74-88f5-681c1e73f668" />
+
+# 🚌 [Bus Ticket Booking System](https://unsent-jiffy-armband.ngrok-free.dev/)
 
 A full-stack web application for booking bus tickets online. Built with Flask, MySQL, and Bootstrap.
 
@@ -81,22 +82,28 @@ A full-stack web application for booking bus tickets online. Built with Flask, M
 
 ## 📁 Project Structure
 
-bus-booking-system/
-|
-├── backend/
-│ ├── app.py # Main Flask application
-│ └── db_config.py # Database configuration
-|
-├── frontend/
-│ └── index.html # Frontend HTML template
-|
-├── database/
-│ └── schema.sql # Database schema (optional)
-|
-├── screenshots/
-│ └── (application screenshots)
-|
-├── requirements.txt
+## 📁 Project Structure
+
+### Main Directories:
+
+| Directory | Description |
+|-----------|-------------|
+| **`/backend`** | Flask application and database configuration |
+| **`/frontend`** | HTML templates and static files |
+| **`/database`** | SQL schema files |
+| **`/screenshots`** | Application screenshots |
+
+### Key Files:
+
+| File | Location | Description |
+|------|----------|-------------|
+| `app.py` | `/backend` | Main Flask application with all routes |
+| `db_config.py` | `/backend` | MySQL database connection settings |
+| `index.html` | `/frontend` | Complete frontend template |
+| `requirements.txt` | Root | Python package dependencies |
+
+### Complete Tree:
+
 
 
 ## 🔧 Installation
