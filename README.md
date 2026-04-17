@@ -24,7 +24,6 @@ A full-stack web application for booking bus tickets online. Built with Flask, M
 - [API Endpoints](#api-endpoints)
 - [Database Schema](#database-schema)
 - [Screenshots](#screenshots)
-- [Team](#team)
 - [License](#license)
 
 ## ✨ Features
