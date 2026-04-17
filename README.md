@@ -332,11 +332,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Project Maker: 
-Name : Saad Al Nafis Siddiky
+Name : [Saad Al Nafis Siddiky](https://github.com/nafissiddiky2)
 
 Email: nafissiddiky2@gmail.com
 
-GitHub: @nafissiddiky2
+GitHub: [@nafissiddiky2](https://github.com/nafissiddiky2)
 
 ⭐ Star this repository if you found it helpful!
 Built with ❤️ for comfortable bus travel in Bangladesh.
